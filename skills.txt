@@ -1,0 +1,13 @@
+Bachelor's degree in Computer Science with Mathematics and Statistics or equivalent subject (Master's degree preferred).
+0-4 years professional experience as a data engineer. No experience is also OK if candidate can demonstrate exceptional skills/abilities.
+Strong R or Python skills and data analysis skills.
+Experienced on Big Data platform like Hadoop, hbase, CouchDB, hive, Pig etc.
+Worked with TeraData, Oracle, MySQL, Informatica, Tableu, QlikView or similar reporting and BI packages.
+Used SQL, PL/SQL and similar languages, UNIX shell scripting.
+Proficiency in statistical data analysis and data mining packages SAS, SPSS, MatLab, R, STATA, Excel, etc.
+Experienced with data modeling, design patterns, building highly scalable and secured solutions.
+Web/data scraping experience and background in acquiring content in various forms from web sources through automation.
+Knowledge of agile software development process and familiarity with performance metric tools.
+Strong data analytics skills.
+Good communication skills.
+
